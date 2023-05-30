@@ -1,9 +1,9 @@
 # ЛАБОРАТОРНАЯ РАБОТА 7
 В данной лабораторной работе использовалась нейросеть GAN, для генерации изображенийодежды с помощью датасета fashion_mnist.
 
+Мы установили следующие генератор и дискриминатор:
 
-
-
+![fdsf](https://sun9-45.userapi.com/impg/5zizFiGeKSrleEJddS7D09GP4IOHY1EH3gGZ4w/il-J8Y1uUTM.jpg?size=984x428&quality=96&sign=5dc4c6af18e585d0f71bd7e6ff527cf7&type=album)
 
 Обучение проходило на 10 эпохах:
 
