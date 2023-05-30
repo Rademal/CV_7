@@ -4,8 +4,8 @@
 
 * Мы установили следующие генератор и дискриминатор:
 
-![fdsf](https://github.com/Rademal/pic/blob/main/gen.jpg)
+![gen](https://github.com/Rademal/CV_7/assets/118282916/2b86f426-f124-4f04-bd83-36e5d412f53f)
 
 * Обучение проходило на 10 эпохах и был получен следующий результат:
 
-![fdsf](https://github.com/Rademal/pic/blob/main/result.jpg)
+![result](https://github.com/Rademal/CV_7/assets/118282916/4da834d0-c542-4d01-bdd5-bf800e5cdf67)
